@@ -12,7 +12,6 @@ I love exploring new technologies, challenging myself, and making my ideas come 
 
 ## 🔥 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hritisha&show_icons=true&theme=radical)
-![Github commit activity](https://img.shields.io/github/commit-activity/:interval/:user/:repo)
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/hritisha-choudhury/) 🌐
