@@ -1,11 +1,22 @@
-# Hi, I'm Hritisha 
+# Hey there! I'm Hritisha 
 
-🚀 **CS undergrad passionate about coding, designing, and solving problems!**
+I'm a CS undergrad and a reader in India.
 
-🎮 Currently exploring:
-**Web Development, Data Structure and Algorithms and Human Computer Interatcion**  
+I'm currently pursueing my undergraduate from KIIT university.
 
-I love exploring new technologies, challenging myself, and making my ideas come alive!
+I'm exploring:
+- **Web Development** - designing and developing interactive, responsive UI.
+- **Data Structures and Algorithm** - strengthening my problem-solving skills, one algorithm at a time.
+- **Human Computer Interaction** - understanding how people connect with technology and designing experiences that put humans first.
+
+I'm fascinated by the way technology shapes our experiences — from stunning 3D websites to powerful AI tools — and how these innovations help us solve real-world problems and connect with each other in remarkable ways.
+
+Outside studies, I'm interested in classic literature, an art enthusiast and a lifelong learner.I love reading books, dancing and exploring innovations in science and technology.I find happiness in creativity — whether it's learning a new choreo, writing code, or losing myself in a good book.
+
+
+**Let's connect!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hritisha-choudhury/) 
+
 
 ## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -13,9 +24,6 @@ I love exploring new technologies, challenging myself, and making my ideas come 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🔥 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hritisha&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hritisha03&show_icons=true&theme=radical)
 [![Hritisha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hritisha03&theme=github-compact)](https://github.com/Hritisha03/github-readme-activity-graph)
-
-## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hritisha-choudhury/) 
 
