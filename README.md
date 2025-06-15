@@ -1,9 +1,10 @@
 # Hi, I'm Hritisha 
 
 🚀 **CS undergrad passionate about coding, designing, and solving problems!**
-🎮 Currently exploring: **Web Development, Data Structure and Algorithms and Human Computer Interatcion**  
+🎮 Currently exploring:
+**Web Development, Data Structure and Algorithms and Human Computer Interatcion**  
 
-I love exploring new technologies, challenging myself, and making my ideas come alive! 
+I love exploring new technologies, challenging myself, and making my ideas come alive!
 
 ## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -12,6 +13,7 @@ I love exploring new technologies, challenging myself, and making my ideas come 
 
 ## 🔥 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hritisha&show_icons=true&theme=radical)
+[![Hritisha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hritisha00710)](https://github.com/hritisha00710/github-readme-activity-graph)
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/hritisha-choudhury/) 🌐
