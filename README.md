@@ -11,7 +11,7 @@ I love exploring new technologies, challenging myself, and making my ideas come 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🔥 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yourUsername&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Hritisha&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/hritisha-choudhury/) 🌐
