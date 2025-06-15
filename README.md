@@ -1,4 +1,4 @@
-# Hey there! I'm Hritisha 
+# Hey there! I'm Hritisha 🙋‍♀️
 
 I'm a CS undergrad and a reader in India.
 
