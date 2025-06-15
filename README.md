@@ -1,1 +1,14 @@
-# Hritisha-Choudhury
+# Hi, I'm Hritisha 
+
+🚀 **CS undergrad passionate about coding, designing, and solving problems!**
+🎮 Currently exploring: **Web Development, Data Structure and Algorithms and Human Computer Interatcion**  
+
+I love exploring new technologies, challenging myself, and making my ideas come alive! 
+
+## 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/hritisha-choudhury/) 🌐
