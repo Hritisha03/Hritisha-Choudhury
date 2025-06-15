@@ -12,7 +12,7 @@ I'm exploring:
 I'm fascinated by the way technology shapes our experiences — from stunning 3D websites to powerful AI tools — and how these innovations help us solve real-world problems and connect with each other in remarkable ways.
 
 Outside studies, I'm interested in classic literature, an art enthusiast and a lifelong learner.I love reading books, dancing and exploring innovations in science and technology.I find happiness in creativity — whether it's learning a new choreo, writing code, or losing myself in a good book.
-
+ 
 
 **Let's connect!**
 
