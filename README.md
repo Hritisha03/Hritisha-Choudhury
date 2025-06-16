@@ -26,12 +26,12 @@ Outside studies, I'm interested in classic literature, an art enthusiast and a l
 
 ## 🔥 GitHub Stats
 <p align = "left">
-<img src = "https://github-readme-stats.vercel.app/api?username=Hritisha03&show_icons=true&theme=radical" alt="GitHub stats" width = 200></p>
+<img src = "https://github-readme-stats.vercel.app/api?username=Hritisha03&show_icons=true&theme=radical" alt="GitHub stats" width = 400></p>
  <p align = "right">
-<img src = "https://github-readme-activity-graph.vercel.app/graph?username=Hritisha03&bg_color=000000&color=ffccff&line=ff33cc&point=ffccff)](https://github.com/Hritisha03/github-readme-activity-graph)" alt="Hritisha's github activity graph" width = 200>
+<img src = "https://github-readme-activity-graph.vercel.app/graph?username=Hritisha03&bg_color=000000&color=ffccff&line=ff33cc&point=ffccff)](https://github.com/Hritisha03/github-readme-activity-graph)" alt="Hritisha's github activity graph" width = 400>
  </p>
 
 ## Wakatime Stats
 <p align = "center">
-<img src="https://wakatime.com/share/@Hritisha_Ch/d777d601-bcdd-42d9-867b-aa4992ac86bc.svg" alt="WakaTime stats" width="200">
+<img src="https://wakatime.com/share/@Hritisha_Ch/d777d601-bcdd-42d9-867b-aa4992ac86bc.svg" alt="WakaTime stats" width="400">
 </p>
