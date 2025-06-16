@@ -25,10 +25,13 @@ Outside studies, I'm interested in classic literature, an art enthusiast and a l
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🔥 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hritisha03&show_icons=true&theme=radical)
-[![Hritisha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hritisha03&bg_color=000000&color=ffccff&line=ff33cc&point=ffccff)](https://github.com/Hritisha03/github-readme-activity-graph)
+<p align = "left">
+<img src = "https://github-readme-stats.vercel.app/api?username=Hritisha03&show_icons=true&theme=radical" alt="GitHub stats" width = 200></p>
+ <p align = "right">
+<img src = "https://github-readme-activity-graph.vercel.app/graph?username=Hritisha03&bg_color=000000&color=ffccff&line=ff33cc&point=ffccff)](https://github.com/Hritisha03/github-readme-activity-graph)" alt="Hritisha's github activity graph" width = 200>
+ </p>
 
 ## Wakatime Stats
 <p align = "center">
 <img src="https://wakatime.com/share/@Hritisha_Ch/d777d601-bcdd-42d9-867b-aa4992ac86bc.svg" alt="WakaTime stats" width="200">
-
+</p>
