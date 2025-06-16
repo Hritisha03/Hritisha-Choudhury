@@ -30,5 +30,5 @@ Outside studies, I'm interested in classic literature, an art enthusiast and a l
 
 ## Wakatime Stats
 <p align = "center">
-<img src="https://wakatime.com/share/@Hritisha_Ch/d777d601-bcdd-42d9-867b-aa4992ac86bc.svg" alt="WakaTime stats" width="250">
+<img src="https://wakatime.com/share/@Hritisha_Ch/d777d601-bcdd-42d9-867b-aa4992ac86bc.svg" alt="WakaTime stats" width="200">
 
