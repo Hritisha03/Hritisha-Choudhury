@@ -28,3 +28,4 @@ Outside studies, I'm interested in classic literature, an art enthusiast and a l
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hritisha03&show_icons=true&theme=radical)
 [![Hritisha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hritisha03&bg_color=000000&color=ffccff&line=ff33cc&point=ffccff)](https://github.com/Hritisha03/github-readme-activity-graph)
 
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hritisha03)
