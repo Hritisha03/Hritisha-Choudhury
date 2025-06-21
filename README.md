@@ -24,9 +24,13 @@ Outside studies, I'm interested in classic literature, an art enthusiast and a l
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🔥 GitHub Stats
-<img src = "https://github-readme-stats.vercel.app/api?username=Hritisha03&show_icons=true&theme=radical" alt="GitHub stats" width = 500 /><img src = "https://github-readme-activity-graph.vercel.app/graph?username=Hritisha03&bg_color=000000&color=ffccff&line=ff33cc&point=ffccff)](https://github.com/Hritisha03/github-readme-activity-graph)" alt="Hritisha's github activity graph" width = 500 /> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Hritisha03&layout=compact">
+## GitHub Stats
 
- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hritisha03&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hritisha03&layout=compact&theme=radical" width="47%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hritisha03&bg_color=000000&color=ffccff&line=ff33cc&point=ffccff&theme=dracula" width="95%" />
 </p>
